@@ -1,5 +1,7 @@
 # Fresh project
 
+[![Made with Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
+
 Your new Fresh project is ready to go. You can follow the Fresh "GettingStarted"
 guide [here][guide]
 
